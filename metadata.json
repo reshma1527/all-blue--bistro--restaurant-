@@ -1,0 +1,6 @@
+{
+  "name": "All Blue Bistro",
+  "description": "Grand Line Culinary Haven where Indian spiced gravies, Chinese wok-hei fires, and Italian woodfired treasures converge under one pirate flag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
